@@ -28,7 +28,7 @@ Libraries Used:
 
 Authors:
 -------------
-* Sidd Arora (http://github.com/siddarora)
+* Sidd Arora (http://github.com/sarora)
 * William Lam (http://github.com/davanish)
 * Siva Manoharan (http://github.com/smanoharan)
 * Mark Will (http://github.com/maw41)
