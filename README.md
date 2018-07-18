@@ -1,7 +1,7 @@
 314Kinect
 =========
 
-Kinect based Sign Language Interpreter (COMP314 Group Project)
+Kinect based Sign Language Interpreter (COMP314 Group Project). Requirements were gathered by holding interviews with an expert deaf instructor, and members of the deaf community.
 
 
 Use Case:
